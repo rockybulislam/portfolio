@@ -136,7 +136,7 @@ export default function Home() {
               <img
                 className="w-full h-full object-cover grayscale brightness-90 contrast-125"
                 alt="Monochrome portrait of a systems engineer, high-contrast brutalist aesthetic"
-                src="rocky_img.png"
+                src="rocky_img.webp"
               />
               <div className="absolute inset-0 bg-primary-container/10 mix-blend-overlay"></div>
               <div className="absolute bottom-6 left-6 p-4 bg-[#0A0A0A] border border-[#1E1E1E]">
